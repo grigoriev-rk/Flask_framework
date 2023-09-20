@@ -1,0 +1,9 @@
+flask
+requests
+SQLAlchemy
+psycopg2-binary
+# hashlib
+pydantic
+
+
+
